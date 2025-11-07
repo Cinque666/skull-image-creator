@@ -7,12 +7,12 @@ import java.awt.image.BufferedImage;
 @Data
 public class Nft {
 
-    BufferedImage bufBackground;
-    BufferedImage bufBack;
-    BufferedImage bufBody;
-    BufferedImage bufClothe;
-    BufferedImage bufHead;
-    BufferedImage bufAccessory;
-    BufferedImage bufEye;
-    BufferedImage bufMouth;
+    private BufferedImage bufBackground;
+    private BufferedImage bufBack;
+    private BufferedImage bufBody;
+    private BufferedImage bufClothe;
+    private BufferedImage bufHead;
+    private BufferedImage bufAccessory;
+    private BufferedImage bufEye;
+    private BufferedImage bufMouth;
 }
